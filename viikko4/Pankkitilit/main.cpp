@@ -17,5 +17,7 @@ int main()
     Asiakas asiakas2("Pekka", 500);
 
     asiakas1.tiliSiirto(300,asiakas2);
+    asiakas1.showSaldo();
+    asiakas2.showSaldo();
 
 }

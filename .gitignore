@@ -1,5 +1,5 @@
-teht1/build
-teht1/*.user
+viikko1/teht1/build
+viikko1/teht1/*.user
 
 viikko2/mittari
 
@@ -14,3 +14,6 @@ viikko3/italianChef/*.user
 
 viikko4/Pankkitilit/build
 viikko4/Pankkitilit/*.user
+
+viikko5/Notifikaattori/build
+viikko5/Notifikaattori/*.user
