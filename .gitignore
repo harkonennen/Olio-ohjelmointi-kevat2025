@@ -17,3 +17,6 @@ viikko4/Pankkitilit/*.user
 
 viikko5/Notifikaattori/build
 viikko5/Notifikaattori/*.user
+
+viikko6/test/build
+viikko6/test/*.user
